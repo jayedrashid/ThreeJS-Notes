@@ -1,6 +1,6 @@
 # `ThreeJS: Notes`
 
-Front-end 3D JavaScript Library Guide.
+Three.js is a JavaScript-based WebGL engine that can run GPU-powered games and other graphics-powered apps straight from the browser. The three. js library provides many features and APIs for drawing 3D scenes in your browser.
 
 <p align="center">
  <img width="400px" src="https://miro.medium.com/max/724/0*oGyg1mbyXIHa3TIX.png" align="center" alt="ThreeJS Beginners Guide" />
